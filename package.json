@@ -19,6 +19,6 @@
   "homepage": "https://github.com/fistozvoti/node-first-steps#readme",
   "dependencies": {
     "chalk": "^2.4.2",
-    "figlet": "^1.2.4"
+    "figlet": "^1.11.3"
   }
 }
